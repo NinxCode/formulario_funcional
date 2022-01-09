@@ -1,0 +1,33 @@
+h1{
+    color: red;
+    font-family: Verdana, 'Calibri', sans-serif;
+    font-size: 24px;
+}
+
+h2{
+    color: rgb(135, 12, 12);
+    font-family: Verdana, 'Calibri', sans-serif;
+    font-size: 20px;
+}
+
+body{
+    color: blue;
+    background-color: #CFC;
+    font-family: Georgia, 'Cambria', serif;
+    font-size: 16px;
+}
+
+.datos{
+    color: #060;
+}
+
+.sustantivo{
+    font-size: 20;
+    font-weight: bold;
+}
+
+.subrayado{
+    color:white;
+    background-color: #000;
+    font-style: italic;
+}
